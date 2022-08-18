@@ -1,0 +1,13 @@
+default_context:
+    municipality: "Milwaukee"
+    iana_timezone: "America/Chicago"
+    governing_body_type: "city council"
+    municipality_slug: "milwaukee"
+    python_municipality_slug: "milwaukee"
+    infrastructure_slug: "cdp-milwaukee-9f60e352"
+    maintainer_or_org_full_name: "evamaxfield"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "milwaukee"
+    hosting_github_url: "https://github.com/CouncilDataProject/milwaukee"
+    hosting_web_app_address: "https://councildataproject.github.io/milwaukee"
+    firestore_region: "us-central"
