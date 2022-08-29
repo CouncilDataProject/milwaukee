@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/milwaukee/static/js/main.d6e37f85.chunk.js",
-    "main.js.map": "/milwaukee/static/js/main.d6e37f85.chunk.js.map",
-    "runtime-main.js": "/milwaukee/static/js/runtime-main.19bb005b.js",
-    "runtime-main.js.map": "/milwaukee/static/js/runtime-main.19bb005b.js.map",
+    "main.js": "/milwaukee/static/js/main.71b4f206.chunk.js",
+    "main.js.map": "/milwaukee/static/js/main.71b4f206.chunk.js.map",
+    "runtime-main.js": "/milwaukee/static/js/runtime-main.3880a6d1.js",
+    "runtime-main.js.map": "/milwaukee/static/js/runtime-main.3880a6d1.js.map",
     "static/css/2.5082ff89.chunk.css": "/milwaukee/static/css/2.5082ff89.chunk.css",
-    "static/js/2.fb7856b0.chunk.js": "/milwaukee/static/js/2.fb7856b0.chunk.js",
-    "static/js/2.fb7856b0.chunk.js.map": "/milwaukee/static/js/2.fb7856b0.chunk.js.map",
+    "static/js/2.d8ce4872.chunk.js": "/milwaukee/static/js/2.d8ce4872.chunk.js",
+    "static/js/2.d8ce4872.chunk.js.map": "/milwaukee/static/js/2.d8ce4872.chunk.js.map",
     "index.html": "/milwaukee/index.html",
     "static/css/2.5082ff89.chunk.css.map": "/milwaukee/static/css/2.5082ff89.chunk.css.map",
-    "static/js/2.fb7856b0.chunk.js.LICENSE.txt": "/milwaukee/static/js/2.fb7856b0.chunk.js.LICENSE.txt"
+    "static/js/2.d8ce4872.chunk.js.LICENSE.txt": "/milwaukee/static/js/2.d8ce4872.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19bb005b.js",
+    "static/js/runtime-main.3880a6d1.js",
     "static/css/2.5082ff89.chunk.css",
-    "static/js/2.fb7856b0.chunk.js",
-    "static/js/main.d6e37f85.chunk.js"
+    "static/js/2.d8ce4872.chunk.js",
+    "static/js/main.71b4f206.chunk.js"
   ]
 }
