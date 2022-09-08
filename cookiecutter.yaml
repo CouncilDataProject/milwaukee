@@ -11,5 +11,5 @@ default_context:
     hosting_github_url: "https://github.com/CouncilDataProject/milwaukee"
     hosting_web_app_address: "https://councildataproject.github.io/milwaukee"
     firestore_region: "us-central"
-    event_gather_timedelta_lookback_days: 10
+    event_gather_timedelta_lookback_days: 5
     event_gather_cron: "4 21 * * *"
