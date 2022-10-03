@@ -1,0 +1,2 @@
+(this["webpackJsonpcdp-milwaukee"]=this["webpackJsonpcdp-milwaukee"]||[]).push([[0],{204:function(e,i){},90:function(e,i,n){"use strict";n.r(i);n(0);var t=n(26),c=n.n(t),o=n(65),p=(n(218),n(57));c.a.render(Object(p.jsx)("div",{children:Object(p.jsx)(o.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-milwaukee-9f60e352"},settings:{}},municipality:{name:"Milwaukee",timeZone:"America/Chicago",footerLinksSections:[]}},children:Object(p.jsx)(o.App,{})})}),document.getElementById("root"))}},[[90,1,2]]]);
+//# sourceMappingURL=main.cfd2bf8e.chunk.js.map
