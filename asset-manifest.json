@@ -5,16 +5,16 @@
     "runtime-main.js": "/milwaukee/static/js/runtime-main.07890ff7.js",
     "runtime-main.js.map": "/milwaukee/static/js/runtime-main.07890ff7.js.map",
     "static/css/2.3fe0b2dc.chunk.css": "/milwaukee/static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.d2036f09.chunk.js": "/milwaukee/static/js/2.d2036f09.chunk.js",
-    "static/js/2.d2036f09.chunk.js.map": "/milwaukee/static/js/2.d2036f09.chunk.js.map",
+    "static/js/2.944a5dc5.chunk.js": "/milwaukee/static/js/2.944a5dc5.chunk.js",
+    "static/js/2.944a5dc5.chunk.js.map": "/milwaukee/static/js/2.944a5dc5.chunk.js.map",
     "index.html": "/milwaukee/index.html",
     "static/css/2.3fe0b2dc.chunk.css.map": "/milwaukee/static/css/2.3fe0b2dc.chunk.css.map",
-    "static/js/2.d2036f09.chunk.js.LICENSE.txt": "/milwaukee/static/js/2.d2036f09.chunk.js.LICENSE.txt"
+    "static/js/2.944a5dc5.chunk.js.LICENSE.txt": "/milwaukee/static/js/2.944a5dc5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.07890ff7.js",
     "static/css/2.3fe0b2dc.chunk.css",
-    "static/js/2.d2036f09.chunk.js",
+    "static/js/2.944a5dc5.chunk.js",
     "static/js/main.f32add96.chunk.js"
   ]
 }
