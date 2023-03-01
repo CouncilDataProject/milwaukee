@@ -5,7 +5,7 @@ default_context:
     municipality_slug: "milwaukee"
     python_municipality_slug: "milwaukee"
     infrastructure_slug: "cdp-milwaukee-9f60e352"
-    maintainer_or_org_full_name: "evamaxfield"
+    maintainer_or_org_full_name: "Council Data Project Contributors"
     hosting_github_username_or_org: "CouncilDataProject"
     hosting_github_repo_name: "milwaukee"
     hosting_github_url: "https://github.com/CouncilDataProject/milwaukee"
@@ -13,3 +13,5 @@ default_context:
     firestore_region: "us-central"
     event_gather_timedelta_lookback_days: 5
     event_gather_cron: "4 21 * * *"
+    enable_clipping: "true"
+    speech_to_text_model_version: "large"
